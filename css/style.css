@@ -101,7 +101,7 @@
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
-
+	
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -848,7 +848,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #e0555a;
+			background-color: #000000;
 			color: #ffffff !important;
 		}
 
