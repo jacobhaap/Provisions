@@ -132,7 +132,7 @@
 	}
 
 	code {
-		background: rgba(144, 144, 144, 0.075);
+		background-image: url(/images/bg.jpg);
 		border-radius: 0.5em;
 		background-image: url(/images/bg.jpg);
 		font-family: "Courier New", monospace;
