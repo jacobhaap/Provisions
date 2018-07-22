@@ -9,8 +9,8 @@
 
 /* Basic */
 
-	body {
-		background: #fff;
+	body{
+		background-color: #fff; 
 	}
 
 		body.is-loading * {
@@ -997,7 +997,10 @@
 	}
 
 		.wrapper.style1 {
-			background: #f2f2f2;
+			background-image: url(BG.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center;
 		}
 
 			.wrapper.style1 .box {
