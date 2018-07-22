@@ -81,6 +81,10 @@
 		font-size: 1.75em;
 		line-height: 1.5em;
 	}
+	
+	#title {
+		 color: white;
+	}
 
 	h3 {
 		font-size: 1.25em;
